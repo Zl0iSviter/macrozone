@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8f9b3d90-36ce-4fd7-8b1a-9a0499f805ee"
+      }
+    },
+    "owner": "zloisviters-team"
   }
 }
